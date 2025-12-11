@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "1800",
+  "base_artist": "bbno$",
+  "createdAt": "2025-12-11T10:44:21.503342Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Election of 1800",
+      "artist": "Daveed Diggs feat. Okieriete Onaodowan, Leslie Odom Jr., Lin-Manuel Miranda & Original Broadway Cast of Hamilton",
+      "has_synced": true,
+      "path": "select/01_The_Election_of_1800_Daveed_Diggs_feat._Okieriete_Onaodowan,_Leslie_Odom_Jr.,_Lin-Manuel_Miranda_&_Or.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Election of 1800",
+      "artist": "Daveed Diggs, Okieriete Onaodowan, Leslie Odom Jr․, Lin‐Manuel Miranda & Cast",
+      "has_synced": true,
+      "path": "select/02_The_Election_of_1800_Daveed_Diggs,_Okieriete_Onaodowan,_Leslie_Odom_Jr.,_Lin‐Manuel_Miranda_&_Cast.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1800",
+      "artist": "Snoop Dogg feat. Lil Jon",
+      "has_synced": true,
+      "path": "select/03_1800_Snoop_Dogg_feat._Lil_Jon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1800 (featuring Lil Jon)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/04_1800_(featuring_Lil_Jon)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Election Of 1800",
+      "artist": "Daveed Diggs, Okieriete Onaodowan, Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cast of Hamilton",
+      "has_synced": true,
+      "path": "select/05_The_Election_Of_1800_Daveed_Diggs,_Okieriete_Onaodowan,_Leslie_Odom,_Jr.,_Lin-Manuel_Miranda_&_Origin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "1800 (feat. Lil Jon)",
+      "artist": "Snoop Dogg",
+      "has_synced": true,
+      "path": "select/06_1800_(feat._Lil_Jon)_Snoop_Dogg.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Election of 1800 [Explicit]",
+      "artist": "Daveed Diggs, Okieriete Onaodowan, Leslie Odom, Jr., Lin-Manuel Miranda, Original Broadway Cast of Hamilton",
+      "has_synced": true,
+      "path": "select/07_The_Election_of_1800_[Explicit]_Daveed_Diggs,_Okieriete_Onaodowan,_Leslie_Odom,_Jr.,_Lin-Manuel_Miranda,_Origina.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Election Of 1800",
+      "artist": "Daveed Diggs, Okieriete Onaodowan, Leslie Odom, Jr., Lin-Manuel Miranda & Original Broadway Cast of \"Hamilton\"",
+      "has_synced": true,
+      "path": "select/08_The_Election_Of_1800_Daveed_Diggs,_Okieriete_Onaodowan,_Leslie_Odom,_Jr.,_Lin-Manuel_Miranda_&_Origin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Election Of 1800",
+      "artist": "Lin-Manuel Miranda",
+      "has_synced": false,
+      "path": "select/09_The_Election_Of_1800_Lin-Manuel_Miranda.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Election of 1800",
+      "artist": "Lin‐Manuel Miranda",
+      "has_synced": false,
+      "path": "select/10_The_Election_of_1800_Lin‐Manuel_Miranda.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LONDON TO 1800",
+      "artist": "BEXEY feat. Jackboy",
+      "has_synced": false,
+      "path": "select/11_LONDON_TO_1800_BEXEY_feat._Jackboy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LONDON TO 1800",
+      "artist": "BEXEY, Jackboy",
+      "has_synced": false,
+      "path": "select/12_LONDON_TO_1800_BEXEY,_Jackboy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "1800",
+      "artist": "King Lil G",
+      "has_synced": false,
+      "path": "select/13_1800_King_Lil_G.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Election of 1800",
+      "artist": "Daveed Diggs",
+      "has_synced": true,
+      "path": "select/14_The_Election_of_1800_Daveed_Diggs.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Election of 1800 (instrumental)",
+      "artist": "Lin‐Manuel Miranda",
+      "has_synced": false,
+      "path": "select/15_The_Election_of_1800_(instrumental)_Lin‐Manuel_Miranda.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "1800",
+      "artist": "Snoop Dogg",
+      "has_synced": false,
+      "path": "select/16_1800_Snoop_Dogg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1-800",
+      "artist": "bbno$, Ironmouse",
+      "has_synced": false,
+      "path": "select/pl_01_1-800_bbno$,_Ironmouse.txt"
+    }
+  ]
+}
